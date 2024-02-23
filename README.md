@@ -1,5 +1,5 @@
 # Diabetes_Prediction
-Diabetes prediction using Bayesian classifier
+In this project I have employed Bayesian Classifier algorithm
 
 # BAYESIAN CLASSIFIER ALGORITHM
 A Bayesian classifier is a statistical classification algorithm based on Bayes' theorem, a fundamental concept in probability theory. 
