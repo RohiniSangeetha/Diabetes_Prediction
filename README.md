@@ -7,13 +7,6 @@ It is particularly useful for categorizing data into different classes or catego
 
 # Dataset
 The dataset used for this work is diabetes.csv
-The attributes present are 
-      1.Pregnancies
-      2.Glucose
-      3.Blood Pressure
-      4.Skin Thickness
-      5.Insulin
-      6.BMI(Body Mass Index)
-      7.Diabetes Pedigree Function
-      8.Age
-      9.Outcome
+The attributes present are Pregnancies,Glucose,Blood Pressure,Skin Thickness,Insulin,BMI(Body Mass Index),Diabetes Pedigree Function,Age,Outcome.
+      
+![1](https://github.com/RohiniSangeetha/Diabetes_Prediction/assets/113228124/77ecf779-8942-4d82-a505-70ea9c2e8fbe)
